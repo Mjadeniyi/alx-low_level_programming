@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	char alphsbet[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+	char alphabet[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	
 	int i;
 	for (i = 0; i < 52; i++)
